@@ -1,0 +1,15 @@
+C:\Users\Shaun Mdhluli\source\repos\Pro-CSharp\Chapter3_AllProject\SimpleCSharpApp\bin\Debug\net6.0\SimpleCSharpApp.exe
+C:\Users\Shaun Mdhluli\source\repos\Pro-CSharp\Chapter3_AllProject\SimpleCSharpApp\bin\Debug\net6.0\SimpleCSharpApp.deps.json
+C:\Users\Shaun Mdhluli\source\repos\Pro-CSharp\Chapter3_AllProject\SimpleCSharpApp\bin\Debug\net6.0\SimpleCSharpApp.runtimeconfig.json
+C:\Users\Shaun Mdhluli\source\repos\Pro-CSharp\Chapter3_AllProject\SimpleCSharpApp\bin\Debug\net6.0\SimpleCSharpApp.dll
+C:\Users\Shaun Mdhluli\source\repos\Pro-CSharp\Chapter3_AllProject\SimpleCSharpApp\bin\Debug\net6.0\SimpleCSharpApp.pdb
+C:\Users\Shaun Mdhluli\source\repos\Pro-CSharp\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net6.0\SimpleCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaun Mdhluli\source\repos\Pro-CSharp\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net6.0\SimpleCSharpApp.AssemblyInfoInputs.cache
+C:\Users\Shaun Mdhluli\source\repos\Pro-CSharp\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net6.0\SimpleCSharpApp.AssemblyInfo.cs
+C:\Users\Shaun Mdhluli\source\repos\Pro-CSharp\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net6.0\SimpleCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\Shaun Mdhluli\source\repos\Pro-CSharp\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net6.0\SimpleCSharpApp.sourcelink.json
+C:\Users\Shaun Mdhluli\source\repos\Pro-CSharp\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net6.0\SimpleCSharpApp.dll
+C:\Users\Shaun Mdhluli\source\repos\Pro-CSharp\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net6.0\refint\SimpleCSharpApp.dll
+C:\Users\Shaun Mdhluli\source\repos\Pro-CSharp\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net6.0\SimpleCSharpApp.pdb
+C:\Users\Shaun Mdhluli\source\repos\Pro-CSharp\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net6.0\SimpleCSharpApp.genruntimeconfig.cache
+C:\Users\Shaun Mdhluli\source\repos\Pro-CSharp\Chapter3_AllProject\SimpleCSharpApp\obj\Debug\net6.0\ref\SimpleCSharpApp.dll
