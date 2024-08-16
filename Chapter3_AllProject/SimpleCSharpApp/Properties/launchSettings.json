@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SimpleCSharpApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Num": "10",
+        "Num2": "25"
+      }
+    }
+  }
+}
