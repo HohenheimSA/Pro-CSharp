@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCsharpApp_Redo", "SimpleCsharpApp_Redo\SimpleCsharpApp_Redo.csproj", "{1B2B24E6-8303-4AA3-BA43-33E06E58D76B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B2B24E6-8303-4AA3-BA43-33E06E58D76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2B24E6-8303-4AA3-BA43-33E06E58D76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2B24E6-8303-4AA3-BA43-33E06E58D76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2B24E6-8303-4AA3-BA43-33E06E58D76B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25A03214-D5CC-414D-AA03-ED88086D8F5B}
+	EndGlobalSection
+EndGlobal
